@@ -5,7 +5,7 @@
 | M1-L1 | Introduction to sensors and transducers| [Watch on YouTube](https://youtu.be/He8kmNzw0zI) |
 | M1-L2 | Classification of transducers| [Watch on YouTube](https://youtu.be/aRV_Z6l8JpQ) |
 | M1-L3 | Advantages and disadvantages of electrical transducers | [Watch on YouTube](https://youtu.be/OlsfhoVzcq8). |
-| M1-L4 | Measurement and instrumentation: introduction and significance | [Watch on YouTube](). |
+| M1-L4 | Measurement and instrumentation: introduction and significance | [Watch on YouTube](https://youtu.be/CGqMS7l-K1s). |
 | M1-L5 | Methods of measurement | [Watch on YouTube](). |
 | M1-L6 | Modes of measurement| [Watch on YouTube](). |
 | M1-L7 | Elements of a generalized measurement system| [Watch on YouTube](). |
