@@ -7,7 +7,7 @@
 | Lecture Notes | All Module | Notes |
 | --- | --- | --- |
 | M1| Sensors and Transducers; Measurement  | [Doi Number](https://doi.org/10.5281/zenodo.24338582) |
-| M2| Static and Dynamic Characteristics of Instruments  | [Doi Number]() |
+| M2| Static and Dynamic Characteristics of Instruments  | [Doi Number](https://doi.org/10.5281/zenodo.24338669) |
 | M3| Measurement of Temperature and Displacement  | [Doi Number]() |
 | M4| Measurement of Strain, Force and Torque   | [Doi Number]() |
 | M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Doi Number]() |
