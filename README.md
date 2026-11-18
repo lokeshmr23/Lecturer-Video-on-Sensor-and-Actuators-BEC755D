@@ -39,7 +39,7 @@
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M2-L1 | Introduction; definitions relating to measuring instruments | [Watch on YouTube](https://youtu.be/x_289rWQXH8) |
-| M2-L2 | Static characteristics I| [Watch on YouTube]() |
+| M2-L2 | Static characteristics I| [Watch on YouTube](https://youtu.be/cVuKEraeCfg) |
 | M2-L3 | Static characteristics II| [Watch on YouTube](). |
 | M2-L4 | Static characteristics III | [Watch on YouTube](). |
 | M2-L5 | Static characteristics IV | [Watch on YouTube](). |
