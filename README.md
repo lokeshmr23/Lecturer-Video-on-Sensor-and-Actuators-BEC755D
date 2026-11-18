@@ -1,3 +1,26 @@
+### 4 Years Previous Year solved question Bank (3 hours | CO1|CO2|CO3|CO4|CO5)
+| question Bank | Previous 4 Year | Notes |
+| --- | --- | --- |
+| Sensors and Actuators Semester VII | Course Code: BEC755D| [Doi Number]() |
+
+### Module-Wise Notes (40 hours | CO1 )
+| Lecture Notes | All Module | Notes |
+| --- | --- | --- |
+| M1| Sensors and Transducers; Measurement  | [Doi Number]() |
+| M2| Static and Dynamic Characteristics of Instruments  | [Doi Number]() |
+| M3| Measurement of Temperature and Displacement  | [Doi Number]() |
+| M4| Measurement of Strain, Force and Torque   | [Doi Number]() |
+| M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Doi Number]() |
+
+### Module-Wise Classroom Presentation slide (40 hours | CO1 )
+| Classroom Presentation | All Module | Slides |
+| --- | --- | --- |
+| M1| Sensors and Transducers; Measurement  | [Drive Link](https://doi.org/10.5281/zenodo.24335981) |
+| M2| Static and Dynamic Characteristics of Instruments  | [Drive Link](https://doi.org/10.5281/zenodo.24336102) |
+| M3| Measurement of Temperature and Displacement  | [Drive Link](https://doi.org/10.5281/zenodo.24336261) |
+| M4| Measurement of Strain, Force and Torque   | [Drive Link]() |
+| M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Drive Link]() |
+
 ### Module 1: Sensors and Transducers; Measurement  (08 hours | CO1)
 
 | Lecture | Topic | Video |
