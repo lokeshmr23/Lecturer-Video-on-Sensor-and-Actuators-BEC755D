@@ -6,7 +6,7 @@
 ### Module-Wise Notes (40 hours | CO1 )
 | Lecture Notes | All Module | Notes |
 | --- | --- | --- |
-| M1| Sensors and Transducers; Measurement  | [Doi Number]() |
+| M1| Sensors and Transducers; Measurement  | [Doi Number](https://doi.org/10.5281/zenodo.24338582) |
 | M2| Static and Dynamic Characteristics of Instruments  | [Doi Number]() |
 | M3| Measurement of Temperature and Displacement  | [Doi Number]() |
 | M4| Measurement of Strain, Force and Torque   | [Doi Number]() |
