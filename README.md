@@ -42,7 +42,7 @@
 | M2-L2 | Static characteristics I| [Watch on YouTube](https://youtu.be/cVuKEraeCfg) |
 | M2-L3 | Static characteristics II| [Watch on YouTube](). |
 | M2-L4 | Static characteristics III | [Watch on YouTube](https://youtu.be/89_X9BH15Ug). |
-| M2-L5 | Static characteristics IV | [Watch on YouTube](). |
+| M2-L5 | Static characteristics IV | [Watch on YouTube](https://youtu.be/mEPSbCi9w94). |
 | M2-L6 | Dynamic characteristics: response and zero-order system| [Watch on YouTube](). |
 | M2-L7 | First-order system| [Watch on YouTube](). |
 | M2-L8 | Second-order system; consolidation| [Watch on YouTube](). |
