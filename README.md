@@ -51,7 +51,7 @@
 
 | Lecture | Topic | Video |
 | --- | --- | --- |
-| M3-L1 | Temperature measurement: introduction and RTD | [Watch on YouTube]() |
+| M3-L1 | Temperature measurement: introduction and RTD | [Watch on YouTube](https://youtu.be/lruwH0pFjEA) |
 | M3-L2 | Thermistors| [Watch on YouTube]() |
 | M3-L3 | Thermocouple thermometers| [Watch on YouTube](). |
 | M3-L4 | Radiation and optical pyrometers | [Watch on YouTube](). |
