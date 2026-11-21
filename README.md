@@ -53,7 +53,7 @@
 | --- | --- | --- |
 | M3-L1 | Temperature measurement: introduction and RTD | [Watch on YouTube](https://youtu.be/lruwH0pFjEA) |
 | M3-L2 | Thermistors| [Watch on YouTube](https://youtu.be/VZQ7baHZkz4) |
-| M3-L3 | Thermocouple thermometers| [Watch on YouTube](). |
+| M3-L3 | Thermocouple thermometers| [Watch on YouTube](https://youtu.be/FUJUjCYwAII). |
 | M3-L4 | Radiation and optical pyrometers | [Watch on YouTube](). |
 | M3-L5 | Displacement measurement: introduction; variable resistance devices | [Watch on YouTube](). |
 | M3-L6 | Variable inductance transducer; induction potentiometers; synchros and resolvers | [Watch on YouTube](). |
