@@ -15,9 +15,9 @@
 ### Module-Wise Classroom Presentation slide (40 hours | CO1 )
 | Classroom Presentation | All Module | Slides |
 | --- | --- | --- |
-| M1| Sensors and Transducers; Measurement  | [Drive Link](https://doi.org/10.5281/zenodo.24335981) |
-| M2| Static and Dynamic Characteristics of Instruments  | [Drive Link](https://doi.org/10.5281/zenodo.24336102) |
-| M3| Measurement of Temperature and Displacement  | [Drive Link](https://doi.org/10.5281/zenodo.24336261) |
+| M1| Sensors and Transducers; Measurement  | [Drive Link](https://drive.google.com/file/d/1ZVpRPQMm3uekZK8d8hn4KS_FjUKXz11R/view?usp=drive_link) |
+| M2| Static and Dynamic Characteristics of Instruments  | [Drive Link](https://drive.google.com/file/d/1dmLz9924mq1e913DSgtqVLZzabxo9-Fc/view?usp=drive_link) |
+| M3| Measurement of Temperature and Displacement  | [Drive Link](https://drive.google.com/file/d/1oZ9TTz36bQ8R_wSet8281hIlnleYMusL/view?usp=drive_link) |
 | M4| Measurement of Strain, Force and Torque   | [Drive Link]() |
 | M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Drive Link]() |
 
