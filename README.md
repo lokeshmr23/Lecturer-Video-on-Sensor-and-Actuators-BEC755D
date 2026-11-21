@@ -58,7 +58,7 @@
 | M3-L5 | Displacement measurement: introduction; variable resistance devices | [Watch on YouTube](https://youtu.be/tF2nxaEZnvY). |
 | M3-L6 | Variable inductance transducer; induction potentiometers; synchros and resolvers | [Watch on YouTube](https://youtu.be/n58PGFwXV5I). |
 | M3-L7 | Variable capacitance transducer; Hall effect devices| [Watch on YouTube](https://youtu.be/0B8r4fUCAoc). |
-| M3-L8 | Proximity devices; digital transducer; consolidation| [Watch on YouTube](). |
+| M3-L8 | Proximity devices; digital transducer; consolidation| [Watch on YouTube](https://youtu.be/sLHT7F63OOA). |
 
 ### Module 4: Measurement of Strain; Force and Torque    (08 hours | CO2 and CO3)
 
