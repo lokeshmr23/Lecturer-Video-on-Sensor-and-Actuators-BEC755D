@@ -65,7 +65,7 @@
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M4-L1 | Strain: introduction and types of strain gauges | [Watch on YouTube](https://youtu.be/oz8Y8bXo3mM) |
-| M4-L2 | Theory of operation of resistance strain gauges| [Watch on YouTube]() |
+| M4-L2 | Theory of operation of resistance strain gauges| [Watch on YouTube](https://youtu.be/uiKGPlT4LBM) |
 | M4-L3 | Types of electrical strain gauges| [Watch on YouTube](). |
 | M4-L4 | Strain gauge circuits; applications | [Watch on YouTube](). |
 | M4-L5 | Force measurement: sensors and load cells I | [Watch on YouTube](). |
