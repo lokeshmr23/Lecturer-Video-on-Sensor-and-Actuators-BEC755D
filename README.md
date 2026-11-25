@@ -69,7 +69,7 @@
 | M4-L3 | Types of electrical strain gauges| [Watch on YouTube](https://youtu.be/YOZ4RW7sRRs). |
 | M4-L4 | Strain gauge circuits; applications | [Watch on YouTube](https://youtu.be/0nalrCzsOFY). |
 | M4-L5 | Force measurement: sensors and load cells I | [Watch on YouTube](https://youtu.be/HV-QUczPHUE). |
-| M4-L6 | Load cells II; hydraulic load cell; electronic weighing system| [Watch on YouTube](). |
+| M4-L6 | Load cells II; hydraulic load cell; electronic weighing system| [Watch on YouTube](https://youtu.be/lhkdACZoT8E). |
 | M4-L7 | Torque measurement: absorption and transmission types | [Watch on YouTube](). |
 | M4-L8 | Torque: stress and deflection types; consolidation | [Watch on YouTube](). |
 
