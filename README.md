@@ -71,7 +71,7 @@
 | M4-L5 | Force measurement: sensors and load cells I | [Watch on YouTube](https://youtu.be/HV-QUczPHUE). |
 | M4-L6 | Load cells II; hydraulic load cell; electronic weighing system| [Watch on YouTube](https://youtu.be/lhkdACZoT8E). |
 | M4-L7 | Torque measurement: absorption and transmission types | [Watch on YouTube](https://youtu.be/16oMGIzvZLY). |
-| M4-L8 | Torque: stress and deflection types; consolidation | [Watch on YouTube](). |
+| M4-L8 | Torque: stress and deflection types; consolidation | [Watch on YouTube](https://youtu.be/Cyurkfeoyms). |
 
 ### Module 5: Signal Conditioning; Data Acquisition Systems and Conversion    (08 hours | CO5)
 | Lecture | Topic | Video |
