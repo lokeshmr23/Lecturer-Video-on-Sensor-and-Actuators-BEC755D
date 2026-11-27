@@ -80,7 +80,7 @@
 | M5-L2 | Amplification and types of amplifiers| [Watch on YouTube]() |
 | M5-L3 | Mechanical and fluid amplifiers | [Watch on YouTube](https://youtu.be/1LtXz5SI1WM). |
 | M5-L4 | Optical amplifiers; electrical and electronic amplifiers | [Watch on YouTube](). |
-| M5-L5 | Data acquisition: introduction, objectives and configuration  | [Watch on YouTube](). |
+| M5-L5 | Data acquisition: introduction, objectives and configuration  | [Watch on YouTube](https://youtu.be/xOS2tXWycEc). |
 | M5-L6 | Data acquisition systems| [Watch on YouTube](). |
 | M5-L7 | Data conversion | [Watch on YouTube](). |
 | M5-L8 | Consolidation and SEE preparation | [Watch on YouTube](). |
