@@ -19,7 +19,7 @@
 | M2| Static and Dynamic Characteristics of Instruments  | [Drive Link](https://drive.google.com/file/d/1dmLz9924mq1e913DSgtqVLZzabxo9-Fc/view?usp=drive_link) |
 | M3| Measurement of Temperature and Displacement  | [Drive Link](https://drive.google.com/file/d/1oZ9TTz36bQ8R_wSet8281hIlnleYMusL/view?usp=drive_link) |
 | M4| Measurement of Strain, Force and Torque   | [Drive Link](https://drive.google.com/file/d/17FIazMAByoHN1VDbv4bbcMAYi4I8ZJrG/view?usp=drive_link) |
-| M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Drive Link]() |
+| M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Drive Link](https://drive.google.com/file/d/1dsxKr_cFFQgoxwKfLFtToKXBjKq3fScb/view?usp=drive_link) |
 
 ### Module 1: Sensors and Transducers; Measurement  (08 hours | CO1)
 
