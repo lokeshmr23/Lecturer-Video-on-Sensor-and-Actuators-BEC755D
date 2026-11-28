@@ -3,7 +3,7 @@
 | --- | --- | --- |
 | Sensors and Actuators Semester VII | Course Code: BEC755D| [Doi Number](https://doi.org/10.5281/zenodo.24624208) |
 
-### Module-Wise Notes (40 hours | CO1 )
+### Module-Wise Notes (40 hours | CO1 |CO2|CO3|CO4|CO5)
 | Lecture Notes | All Module | Notes |
 | --- | --- | --- |
 | M1| Sensors and Transducers; Measurement  | [Doi Number](https://doi.org/10.5281/zenodo.24338582) |
@@ -12,7 +12,7 @@
 | M4| Measurement of Strain, Force and Torque   | [Doi Number](https://doi.org/10.5281/zenodo.24418131) |
 | M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Doi Number](https://doi.org/10.5281/zenodo.24607675) |
 
-### Module-Wise Classroom Presentation slide (40 hours | CO1 )
+### Module-Wise Classroom Presentation slide (40 hours | CO1 |CO2|CO3|CO4|CO5)
 | Classroom Presentation | All Module | Slides |
 | --- | --- | --- |
 | M1| Sensors and Transducers; Measurement  | [Drive Link](https://drive.google.com/file/d/1ZVpRPQMm3uekZK8d8hn4KS_FjUKXz11R/view?usp=drive_link) |
