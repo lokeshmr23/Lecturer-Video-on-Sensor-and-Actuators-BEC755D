@@ -86,9 +86,6 @@
 | M5-L8 | Consolidation and SEE preparation | [Watch on YouTube](https://youtu.be/rRf_ERoFYWQ). |
 
 
-### Previous Year Solved Questions     (3 hours | All CO)
-**Coming Soooooooon!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!**
-
 More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES Sensors and Actuators Semester VII | Course Code: BEC755D | Credits: 03
 
 🚀 How to Use This Repository
