@@ -1,120 +1,140 @@
-### Previous Year solved question Bank (3 hours | CO1|CO2|CO3|CO4|CO5)
-| question Bank | Previous 4 Year | Notes |
-| --- | --- | --- |
-| Sensors and Actuators Semester VII | Course Code: BEC755D| [Doi Number](https://doi.org/10.5281/zenodo.24624208) |
+# BEC755D · Sensors and Actuators — lecture series site
 
-### Module-Wise Notes (40 hours | CO1 |CO2|CO3|CO4|CO5)
-| Lecture Notes | All Module | Notes |
-| --- | --- | --- |
-| M1| Sensors and Transducers; Measurement  | [Doi Number](https://doi.org/10.5281/zenodo.24338582) |
-| M2| Static and Dynamic Characteristics of Instruments  | [Doi Number](https://doi.org/10.5281/zenodo.24338669) |
-| M3| Measurement of Temperature and Displacement  | [Doi Number](https://doi.org/10.5281/zenodo.24417254) |
-| M4| Measurement of Strain, Force and Torque   | [Doi Number](https://doi.org/10.5281/zenodo.24418131) |
-| M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Doi Number](https://doi.org/10.5281/zenodo.24607675) |
+Free, module-wise video lecture series for **VTU BEC755D Sensors and Actuators**
+(Semester VII, Scheme 2022, Credits 03).
 
-### Module-Wise Classroom Presentation slide (40 hours | CO1 |CO2|CO3|CO4|CO5)
-| Classroom Presentation | All Module | Slides |
-| --- | --- | --- |
-| M1| Sensors and Transducers; Measurement  | [Drive Link](https://drive.google.com/file/d/1ZVpRPQMm3uekZK8d8hn4KS_FjUKXz11R/view?usp=drive_link) |
-| M2| Static and Dynamic Characteristics of Instruments  | [Drive Link](https://drive.google.com/file/d/1dmLz9924mq1e913DSgtqVLZzabxo9-Fc/view?usp=drive_link) |
-| M3| Measurement of Temperature and Displacement  | [Drive Link](https://drive.google.com/file/d/1oZ9TTz36bQ8R_wSet8281hIlnleYMusL/view?usp=drive_link) |
-| M4| Measurement of Strain, Force and Torque   | [Drive Link](https://drive.google.com/file/d/17FIazMAByoHN1VDbv4bbcMAYi4I8ZJrG/view?usp=drive_link) |
-| M5| Signal Conditioning; Data Acquisition Systems and Conversion  | [Drive Link](https://drive.google.com/file/d/1dsxKr_cFFQgoxwKfLFtToKXBjKq3fScb/view?usp=drive_link) |
+- 5 modules · 40 lectures, in syllabus order
+- Module-wise notes on Zenodo (one DOI per module)
+- Classroom presentations on Google Drive (one deck per module)
+- Solved question bank: previous 4 years, 3 hours, CO1–CO5
+- CO mapping: M1 → CO1, M2 → CO2, M3 → CO3, M4 → CO2 & CO3, M5 → CO5
 
-### Module 1: Sensors and Transducers; Measurement  (08 hours | CO1)
+**Live site:** https://bec755d-lectures.onrender.com
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M1-L1 | Introduction to sensors and transducers| [Watch on YouTube](https://youtu.be/He8kmNzw0zI) |
-| M1-L2 | Classification of transducers| [Watch on YouTube](https://youtu.be/aRV_Z6l8JpQ) |
-| M1-L3 | Advantages and disadvantages of electrical transducers | [Watch on YouTube](https://youtu.be/OlsfhoVzcq8). |
-| M1-L4 | Measurement and instrumentation: introduction and significance | [Watch on YouTube](https://youtu.be/CGqMS7l-K1s). |
-| M1-L5 | Methods of measurement | [Watch on YouTube](https://youtu.be/DnMRk4do8JI). |
-| M1-L6 | Modes of measurement| [Watch on YouTube](https://youtu.be/H-tkWsnKC2c). |
-| M1-L7 | Elements of a generalized measurement system| [Watch on YouTube](https://youtu.be/jrSTuljl0Oo). |
-| M1-L8 | Input-output configuration; applications; consolidation| [Watch on YouTube](https://youtu.be/rBLQMwXYHPU). |
+---
 
-### Module 2: Static and Dynamic Characteristics of Instruments  (08 hours | CO2)
+## What is in this repository
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M2-L1 | Introduction; definitions relating to measuring instruments | [Watch on YouTube](https://youtu.be/x_289rWQXH8) |
-| M2-L2 | Static characteristics I| [Watch on YouTube](https://youtu.be/cVuKEraeCfg) |
-| M2-L3 | Static characteristics II| [Watch on YouTube](https://youtu.be/2bDKXejs_dk). |
-| M2-L4 | Static characteristics III | [Watch on YouTube](https://youtu.be/89_X9BH15Ug). |
-| M2-L5 | Static characteristics IV | [Watch on YouTube](https://youtu.be/mEPSbCi9w94). |
-| M2-L6 | Dynamic characteristics: response and zero-order system| [Watch on YouTube](https://youtu.be/ZT6EVREQvwo). |
-| M2-L7 | First-order system| [Watch on YouTube](https://youtu.be/M7ucaL7M-9M). |
-| M2-L8 | Second-order system; consolidation| [Watch on YouTube](https://youtu.be/AxSZyVUwX6U). |
+| File | Purpose |
+| --- | --- |
+| `index.html` | The whole site — HTML, CSS and JS in one self-contained file |
+| `dr_lokesh_professor_new.png` | Profile photo used in the teacher section |
+| `render.yaml` | Render Blueprint (static site, cache headers) |
+| `robots.txt` | Allows all crawlers |
+| `.nojekyll` | Not needed by Render; keeps GitHub Pages from processing the files |
 
-### Module 3: Measurement of Temperature; Measurement of Displacement   (08 hours | CO3)
+There is no build step. Render serves these files exactly as they are.
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M3-L1 | Temperature measurement: introduction and RTD | [Watch on YouTube](https://youtu.be/lruwH0pFjEA) |
-| M3-L2 | Thermistors| [Watch on YouTube](https://youtu.be/VZQ7baHZkz4) |
-| M3-L3 | Thermocouple thermometers| [Watch on YouTube](https://youtu.be/FUJUjCYwAII). |
-| M3-L4 | Radiation and optical pyrometers | [Watch on YouTube](https://youtu.be/WYhEOeKpteQ). |
-| M3-L5 | Displacement measurement: introduction; variable resistance devices | [Watch on YouTube](https://youtu.be/tF2nxaEZnvY). |
-| M3-L6 | Variable inductance transducer; induction potentiometers; synchros and resolvers | [Watch on YouTube](https://youtu.be/n58PGFwXV5I). |
-| M3-L7 | Variable capacitance transducer; Hall effect devices| [Watch on YouTube](https://youtu.be/0B8r4fUCAoc). |
-| M3-L8 | Proximity devices; digital transducer; consolidation| [Watch on YouTube](https://youtu.be/sLHT7F63OOA). |
+---
 
-### Module 4: Measurement of Strain; Force and Torque    (08 hours | CO2 and CO3)
+## Deploying on Render
 
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M4-L1 | Strain: introduction and types of strain gauges | [Watch on YouTube](https://youtu.be/oz8Y8bXo3mM) |
-| M4-L2 | Theory of operation of resistance strain gauges| [Watch on YouTube](https://youtu.be/uiKGPlT4LBM) |
-| M4-L3 | Types of electrical strain gauges| [Watch on YouTube](https://youtu.be/YOZ4RW7sRRs). |
-| M4-L4 | Strain gauge circuits; applications | [Watch on YouTube](https://youtu.be/0nalrCzsOFY). |
-| M4-L5 | Force measurement: sensors and load cells I | [Watch on YouTube](https://youtu.be/HV-QUczPHUE). |
-| M4-L6 | Load cells II; hydraulic load cell; electronic weighing system| [Watch on YouTube](https://youtu.be/lhkdACZoT8E). |
-| M4-L7 | Torque measurement: absorption and transmission types | [Watch on YouTube](https://youtu.be/16oMGIzvZLY). |
-| M4-L8 | Torque: stress and deflection types; consolidation | [Watch on YouTube](https://youtu.be/Cyurkfeoyms). |
+### Option A — Blueprint (recommended, uses `render.yaml`)
 
-### Module 5: Signal Conditioning; Data Acquisition Systems and Conversion    (08 hours | CO5)
-| Lecture | Topic | Video |
-| --- | --- | --- |
-| M5-L1 | Signal conditioning: introduction and functions | [Watch on YouTube](https://youtu.be/jHT_Om9datY?si=saZMHeZfIg853P-L) |
-| M5-L2 | Amplification and types of amplifiers| [Watch on YouTube](https://youtu.be/65YpzsagO1w) |
-| M5-L3 | Mechanical and fluid amplifiers | [Watch on YouTube](https://youtu.be/1LtXz5SI1WM). |
-| M5-L4 | Optical amplifiers; electrical and electronic amplifiers | [Watch on YouTube](https://youtu.be/qbWSNEKWEuM). |
-| M5-L5 | Data acquisition: introduction, objectives and configuration  | [Watch on YouTube](https://youtu.be/xOS2tXWycEc). |
-| M5-L6 | Data acquisition systems| [Watch on YouTube](https://youtu.be/EgTeYlyn-lo). |
-| M5-L7 | Data conversion | [Watch on YouTube](https://youtu.be/1cB4d-9Qx94?si=ZMmd1CYCSfB9qlKZ). |
-| M5-L8 | Consolidation and SEE preparation | [Watch on YouTube](https://youtu.be/rRf_ERoFYWQ). |
+1. Push this folder to a GitHub repository (see below).
+2. Open <https://dashboard.render.com> → **New** → **Blueprint**.
+3. Connect the repository. Render reads `render.yaml` and shows the service
+   `bec755d-lectures`.
+4. Click **Apply**. First deploy takes about a minute.
+5. Your site goes live at `https://bec755d-lectures.onrender.com`.
 
+### Option B — manual static site
 
-More modules and lectures will be added as they are published. ⭐ Star this repo to stay updated! COURSE OUTCOMES Sensors and Actuators Semester VII | Course Code: BEC755D | Credits: 03
+1. **New** → **Static Site** → connect the repository.
+2. Fill the form exactly like this:
 
-🚀 How to Use This Repository
+   | Field | Value |
+   | --- | --- |
+   | Name | `bec755d-lectures` |
+   | Branch | `main` |
+   | **Root Directory** | *(leave empty)* |
+   | **Build Command** | *(leave empty)* |
+   | **Publish Directory** | `.` |
 
-Pick a module from the index above and watch the lectures in session order.
+3. **Create Static Site.**
 
-Practise the tutorial problems and try the same constructions.
+> The single most common mistake is putting `render.yaml` (or `bec755d-repo`)
+> in the Publish Directory. It must be `.` — the folder that contains
+> `index.html`.
 
-Check the mapped CO and Bloom level of each topic to focus your exam preparation.
+### After the first deploy
 
-Revisit the module revision and quiz session before each IA test and the SEE.
+- Copy the live URL Render gives you.
+- Replace the guessed canonical URL in `index.html`:
 
-🤝 Contributing
+  ```html
+  <link rel="canonical" href="https://YOUR-URL/" />
+  <meta property="og:url" content="https://YOUR-URL/" />
+  ```
 
-Found an error or want to suggest a topic or problem? Open an Issue or submit a Pull Request.
+  Then commit and push — Render redeploys automatically on every push.
+- Optional: **Settings → Custom Domain** to use your own domain, and
+  **Settings → Health Check Path** = `/index.html` if you want deploy gating.
 
-🔗 Connect
-▶️ YouTube: [https://www.youtube.com/@Dr.LokeshMR]
+---
 
-💼 LinkedIn: [https://www.linkedin.com/in/lokesh-m-r-b6880b169/]
+## Pushing this folder to GitHub
 
-📸 Instagram: [https://www.instagram.com/lokeshmrmysore/]
+From inside this folder:
 
-📢 Telegram: [https://web.telegram.org/a/#-1003930242341]
+```bash
+git init
+git add .
+git commit -m "BEC755D Sensors and Actuators — lecture series site"
+git branch -M main
+git remote add origin https://github.com/lokeshmr23/bec755d-lectures.git
+git push -u origin main
+```
 
-💬 WhatsApp Channel: [https://whatsapp.com/channel/0029VbE13OS7dmeY7Rsgf12o]
+Create the empty repository first at <https://github.com/new> —
+name it `bec755d-lectures`, keep it **Public**, and do **not** add a README
+(otherwise the first push is rejected as non-fast-forward).
 
-⚠️ Disclaimer
+If you already have a repository with other courses, put this folder in a
+subfolder and set Render's **Root Directory** to that subfolder instead, with
+Publish Directory `.` inside it.
 
-These materials are for educational use and follow the VTU Scheme 2022 BEC755D syllabus. Always refer to the official VTU syllabus and your instructor's guidance for the latest updates.
+---
 
-⭐ If this helped you, please star the repository and share it with your classmates!
+## Editing content
+
+All course data lives in **one `MODULES` config** at the top of the `<script>`
+block in `index.html`:
+
+```js
+const MODULES = [
+ { id:1, title:"Sensors and Transducers; Measurement", hours:8, co:"CO1",
+   notes:"https://doi.org/10.5281/zenodo.24338582",
+   slides:"https://drive.google.com/file/d/.../view?usp=drive_link",
+   qbank:"https://doi.org/10.5281/zenodo.24624208",
+   lectures:[
+  {code:"M1-L1", topic:"Introduction to sensors and transducers", url:"https://youtu.be/He8kmNzw0zI"},
+  ...
+ ]},
+];
+```
+
+- Fix or add a lecture → edit that module's `lectures` array.
+- Change notes / slides / question bank → edit `notes`, `slides`, `qbank`.
+- Empty string = that button disappears for that module.
+
+---
+
+## Placeholders still open
+
+| Placeholder | Where |
+| --- | --- |
+| `[Add institution]` | Teacher section |
+| `[Add institution]` | Footer blurb |
+| Canonical + `og:url` | `<head>` — replace the guessed Render URL |
+
+Nothing on the page claims pass rates, rankings, fees, video durations,
+publication counts or VTU rules.
+
+---
+
+## Licence / disclaimer
+
+Materials are for educational use and follow the VTU Scheme 2022 BEC755D
+syllabus. Always refer to the official VTU syllabus and your instructor's
+guidance for the latest updates.

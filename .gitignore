@@ -1,0 +1,16 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# local deploy notes and secrets — never commit these
+deploy-notes.local
+.env
+.env.*
+*.local
+
+# build output from the generator (not part of the repo)
+__pycache__/
+*.pyc
