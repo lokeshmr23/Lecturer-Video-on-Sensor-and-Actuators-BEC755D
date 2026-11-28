@@ -1,4 +1,4 @@
-### 4 Years Previous Year solved question Bank (3 hours | CO1|CO2|CO3|CO4|CO5)
+### Previous Year solved question Bank (3 hours | CO1|CO2|CO3|CO4|CO5)
 | question Bank | Previous 4 Year | Notes |
 | --- | --- | --- |
 | Sensors and Actuators Semester VII | Course Code: BEC755D| [Doi Number](https://doi.org/10.5281/zenodo.24624208) |
