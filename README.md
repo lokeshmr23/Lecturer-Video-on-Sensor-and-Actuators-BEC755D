@@ -77,7 +77,7 @@
 | Lecture | Topic | Video |
 | --- | --- | --- |
 | M5-L1 | Signal conditioning: introduction and functions | [Watch on YouTube](https://youtu.be/jHT_Om9datY?si=saZMHeZfIg853P-L) |
-| M5-L2 | Amplification and types of amplifiers| [Watch on YouTube]() |
+| M5-L2 | Amplification and types of amplifiers| [Watch on YouTube](https://youtu.be/65YpzsagO1w) |
 | M5-L3 | Mechanical and fluid amplifiers | [Watch on YouTube](https://youtu.be/1LtXz5SI1WM). |
 | M5-L4 | Optical amplifiers; electrical and electronic amplifiers | [Watch on YouTube](). |
 | M5-L5 | Data acquisition: introduction, objectives and configuration  | [Watch on YouTube](https://youtu.be/xOS2tXWycEc). |
