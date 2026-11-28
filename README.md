@@ -83,7 +83,7 @@
 | M5-L5 | Data acquisition: introduction, objectives and configuration  | [Watch on YouTube](https://youtu.be/xOS2tXWycEc). |
 | M5-L6 | Data acquisition systems| [Watch on YouTube](https://youtu.be/EgTeYlyn-lo). |
 | M5-L7 | Data conversion | [Watch on YouTube](https://youtu.be/1cB4d-9Qx94?si=ZMmd1CYCSfB9qlKZ). |
-| M5-L8 | Consolidation and SEE preparation | [Watch on YouTube](). |
+| M5-L8 | Consolidation and SEE preparation | [Watch on YouTube](https://youtu.be/rRf_ERoFYWQ). |
 
 
 ### Previous Year Solved Questions     (3 hours | All CO)
